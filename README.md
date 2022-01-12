@@ -1,4 +1,4 @@
-# Analysis-on-Customer-Satisfaction-of-Amazon-in-UAE
+# Analysis on Customer Satisfaction of Amazon in UAE
 
 This is a data analysis on customer satisfaction & demographics in purchases at Amazon in UAE.
 Python was first used to clean the data and extracted to Excel.
